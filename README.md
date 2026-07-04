@@ -49,4 +49,3 @@ The project showcases practical applications of Tableau and Excel for telemetry 
 - Hands‑on experience with Tableau dashboards and calculated fields.
 - Practical application of Excel classification logic for fairness analysis.
 - Strengthened skills in data visualization, reporting, and stakeholder communication.
-ission – Select the factory with the most downtime, take a screenshot of the dashboard, and upload.
