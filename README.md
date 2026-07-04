@@ -49,7 +49,4 @@ The project showcases practical applications of Tableau and Excel for telemetry 
 - Hands‑on experience with Tableau dashboards and calculated fields.
 - Practical application of Excel classification logic for fairness analysis.
 - Strengthened skills in data visualization, reporting, and stakeholder communication.
-
-Dashboard – Combine both charts into a dashboard. Set the first chart (Factory) as a filter for the second (Device Type).
-
-Submission – Select the factory with the most downtime, take a screenshot of the dashboard, and upload.
+ission – Select the factory with the most downtime, take a screenshot of the dashboard, and upload.
