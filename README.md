@@ -42,6 +42,8 @@ The project showcases practical applications of Tableau and Excel for telemetry 
    - Highly Discriminative → less than -20 OR greater than +20
 - Save and upload the edited file.
 
+--- 
+
 ## 🌟 Key Takeaways
 
 - Hands‑on experience with Tableau dashboards and calculated fields.
